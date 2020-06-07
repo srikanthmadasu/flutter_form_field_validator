@@ -1,6 +1,6 @@
 name: flutter_form_field_validator
-description: A utility package for form field validations
-version: 0.0.1
+description: The flutter-form-field-validator package comes with several common validations and removes the boiler plate code from your project.
+version: 1.0.0
 repository: https://github.com/srikanthmadasu/flutter_form_field_validator
 
 environment:
