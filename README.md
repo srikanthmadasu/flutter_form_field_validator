@@ -19,6 +19,13 @@ You can reference the git repo directly if you want:
 git: https://github.com/srikanthmadasu/flutter_form_field_validator
 ```
 
+## pub.dev link 
+
+The follwing link has the details/examples needed to add this package to your flutter project.
+```
+https://pub.dev/packages/flutter_form_field_validator
+```
+
 ## Example Project
 
 ```
